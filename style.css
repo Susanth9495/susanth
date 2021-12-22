@@ -1,0 +1,84 @@
+body{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+}
+#ONE{
+    
+    position: relative;
+
+    padding-left: 500px;
+    top: -35px;
+    height: 350px;
+   
+       
+     
+}
+h1{
+    padding-left: 50PX;
+}
+.menu{
+    
+    display: grid;
+    justify-content: end;
+    position: relative;
+    top: -100px;
+
+}
+h2{
+    padding-left: 500px;
+    font-size: xx-large;
+    position: relative;
+    top: -50px;    
+}
+H3{
+    padding-left: 600px;
+    font-size: xx-large;
+    position: relative;
+    top: -70PX;
+    
+    left: -50px;
+}
+
+.navbar {
+    width: 60px;
+    display: block;
+    margin: 50px auto;
+    border: 4px solid black;
+    padding: 8px 10px;
+    
+    transition: all 0.5s;
+   -webkit-transition: all 0.5s;
+}                      
+ul{
+    display: flex;
+        justify-content:center;
+    gap: 60px;
+    position: relative;
+    top:-150px;
+    left: -82px;
+    font-size: xx-large;
+}
+li{
+    list-style-type: none;
+}
+#png{
+    width: 30px;
+    height: 30px;
+}
+#fb{
+    width: 30px;
+    height: 30px;
+    
+}
+#insta
+{
+    width: 30px;
+    height: 30px;
+}
+#TWO{
+
+display: flex;
+position: relative;
+top: -10PX;
+color: maroon;
+}
+
